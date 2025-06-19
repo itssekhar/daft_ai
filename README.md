@@ -2,8 +2,6 @@
 
 csv Example
 
-Example of using Daft to generate new captions for the LAION400m HuggingFace image dataset.
-
 Getting Started
 
 Set up your virtual environment and install the dependencies from the requirements.txt.
